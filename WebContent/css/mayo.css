@@ -1,0 +1,96 @@
+@CHARSET "UTF-8";
+
+div.head {
+	margin: 0; /* 余白の削除 */
+	padding: 0; /* 余白の削除 */
+	width: 100%;
+	height: 100%;
+}
+
+div.futt {
+	margin: 100; /* 余白の削除 */
+	padding: 0; /* 余白の削除 */
+	width: 100%;
+	height: 100%;
+}
+
+div.loginUser {
+	position: relative;
+	top: -30px;
+	left: 1000px;
+	
+}
+
+table.list {
+	position: relative;
+	top: 10px;
+	width: 700px;
+	
+}
+
+input.user_button {
+	position: relative;
+	top: 22px;
+	width: 100px;
+	
+}
+
+input#user_back {
+	position: relative;
+	left: 120px;
+	width: 100px;
+}
+
+table#user_detail {
+	position: relative;
+	left: 10px;
+	width: 300px;
+}
+
+input#back_user_list {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#user_submit {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#delete_user {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#recipe_add {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#recipe_back {
+	position: relative;
+	left: 120px;
+	width: 100px;
+}
+
+input#recipeDetail_back {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#recipeDetail_submit {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
+
+input#recipeDetail_delete {
+	position: relative;
+	top: 22px;
+	width: 100px;
+}
